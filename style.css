@@ -27,7 +27,7 @@ td {
 }
 
 td:hover {
-    background-color:#f0f0f0;
+    background-color:#2283c897;
 } 
 
 td#result {
@@ -47,6 +47,6 @@ td#sub,
 td#plus,
 td#equal,
 td#decimal {
-  background-color: #e0e0e0;
+  background-color: #660e6c98;
   color: #333;
 }
