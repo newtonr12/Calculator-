@@ -36,11 +36,14 @@ td#result {
     background-color: #f0f0f0;
     border: none;
     padding: 10px;
+    
 }
 
+
+
 td#ce-ac,
-td#sign,
-td#perc,
+td#rightp,
+td#leftp,
 td#div,
 td#mult,
 td#sub,
