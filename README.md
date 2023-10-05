@@ -12,3 +12,4 @@ This is a simple calculator web application built using HTML, CSS, and JavaScrip
 3. All Clear (AC) button to clear the entire display.
 4. Decimal point (.) for entering decimal numbers.
 
+# test
